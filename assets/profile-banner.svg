@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="title">
+  <title id="title">Samarth Prabhu — GitHub profile</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#111329"/>
+      <stop offset="1" stop-color="#191439"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="1">
+      <stop stop-color="#72f5e0"/>
+      <stop offset="1" stop-color="#ac87ff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#a894f4" stroke-opacity=".17"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="320" rx="24" fill="url(#background)"/>
+  <rect x="12" y="12" width="976" height="296" rx="17" fill="none" stroke="#71629c" stroke-opacity=".5"/>
+  <rect x="646" y="24" width="320" height="272" rx="12" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <circle cx="806" cy="160" r="98" opacity=".35"/>
+    <ellipse cx="806" cy="160" rx="125" ry="46" transform="rotate(-32 806 160)"/>
+    <ellipse cx="806" cy="160" rx="125" ry="46" transform="rotate(32 806 160)" opacity=".65"/>
+    <path d="m806 119 41 41-41 41-41-41z" fill="#191439"/>
+  </g>
+  <circle cx="806" cy="160" r="9" fill="#72f5e0"/>
+  <circle cx="911" cy="96" r="5" fill="#ac87ff"/>
+  <circle cx="700" cy="96" r="4" fill="#72f5e0"/>
+  <path d="M64 87h42" stroke="#72f5e0" stroke-width="3"/>
+  <text x="120" y="93" fill="#bfb1f2" font-family="monospace" font-size="17" letter-spacing="4">GITHUB PROFILE</text>
+  <text x="62" y="175" fill="#faf7ff" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Samarth Prabhu</text>
+  <text x="66" y="227" fill="#72f5e0" font-family="monospace" font-size="22">~/samarth</text>
+</svg>
