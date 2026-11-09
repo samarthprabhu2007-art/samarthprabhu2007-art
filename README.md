@@ -10,13 +10,13 @@
 
 ## About me
 
-Hey, I'm **Samarth**, a CSE student at **RVCE, class of ’29**. I love solving problems with **C++ and DSA**, especially when there's more than one way to approach a problem.
+Hey, I'm **Samarth**, a CSE student at **[RVCE](https://www.rvce.edu.in/), class of ’29**. I love solving problems with **C++ and DSA**, especially when there's more than one way to approach a problem.
 
 I build web apps and explore applied ML, and I try to improve a little every day, even if it's just one problem or a small fix to a project.
 
 - 🔭 Currently building: [sheSafe](https://github.com/samarthprabhu2007-art/SHE_SAFE)
 - 🌱 Currently learning: Graphs & DP
-- 🤝 Serving as: Junior Core Team member, Coding Club @ RVCE
+- 🤝 Serving as: Junior Core Team member, [Coding Club @ RVCE](https://github.com/codingclubrvce)
 
 ## Selected projects
 
