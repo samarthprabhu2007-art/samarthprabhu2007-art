@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Samarth Prabhu’s project dashboard, GitHub activity, and selected builds.">
+  <title>Samarth Prabhu · Dev Hub</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="dashboard.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <aside>
+      <div class="eyebrow"><span class="dot"></span> DEV HUB / 01</div>
+      <img class="avatar" src="https://avatars.githubusercontent.com/u/243826485?v=4" width="108" height="108" alt="Samarth’s GitHub avatar">
+      <h1>Samarth <br>Prabhu</h1>
+      <p class="handle">@samarthprabhu2007-art</p>
+      <p>CSE @ RVCE ’29</p>
+      <div class="tags"><span>AI/ML</span><span>Full-stack</span><span>Competitive programming</span></div>
+      <a class="button" href="https://github.com/samarthprabhu2007-art">GitHub profile ↗</a>
+    </aside>
+    <main>
+      <header class="hero panel">
+        <div class="eyebrow">FIELD NOTES / SELECTED BUILDS</div>
+        <h2>Samarth’s Dev Hub<span>.</span></h2>
+        <p>Hackathon builds, machine learning experiments, and C++ problem solving.</p>
+      </header>
+      <section class="stats" aria-label="Highlights and GitHub statistics">
+        <a class="panel medal" href="https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All"><strong>🥈 2nd place</strong><small>Gotta Train ’Em All · Kaggle ↗</small></a>
+        <div class="panel"><strong id="repos">—</strong><small>Public repos</small></div>
+        <div class="panel"><strong id="followers">—</strong><small>Followers</small></div>
+      </section>
+      <section class="panel activity">
+        <div class="section-head"><h2>Contributions</h2><a href="https://github.com/samarthprabhu2007-art#contribution-graph">View on GitHub ↗</a></div>
+        <img id="heatmap" src="https://ghchart.rshah.org/49dcb2/samarthprabhu2007-art" alt="Samarth’s GitHub contribution heatmap for the past year">
+        <p id="heatmap-status" hidden>Heatmap unavailable. View contributions on GitHub.</p>
+      </section>
+      <section class="panel stack">
+        <h2>In the toolkit</h2>
+        <div class="tags"><span>C++</span><span>Python</span><span>JavaScript</span><span>Node.js</span><span>MongoDB</span><span>XGBoost</span></div>
+      </section>
+      <section aria-labelledby="projects">
+        <div class="section-head"><h2 id="projects">Notable projects</h2><a href="https://github.com/samarthprabhu2007-art?tab=repositories">All repos ↗</a></div>
+        <div class="filters" hidden aria-label="Filter projects">
+          <button type="button" data-filter="all" aria-pressed="true">All</button>
+          <button type="button" data-filter="ml" aria-pressed="false">ML</button>
+          <button type="button" data-filter="web" aria-pressed="false">Web</button>
+          <button type="button" data-filter="hardware" aria-pressed="false">Hardware</button>
+        </div>
+        <div class="projects">
+          <a class="panel project" data-category="ml" href="https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All">
+            <span class="icon" aria-hidden="true">✦</span>
+            <h3>Gotta Train ’Em All <span aria-hidden="true">↗</span></h3>
+            <p>Second-place Kaggle solution. XGBoost predicts Pokémon class and weight.</p>
+            <small>Python · XGBoost</small>
+          </a>
+          <a class="panel project" data-category="web" href="https://github.com/samarthprabhu2007-art/BILL_GUARD">
+            <span class="icon" aria-hidden="true">◈</span>
+            <h3>Bill Guard <span aria-hidden="true">↗</span></h3>
+            <p>Track recurring subscriptions, monthly spending, and upcoming bills.</p>
+            <small>JavaScript · Node.js · MongoDB</small>
+          </a>
+          <a class="panel project" data-category="web" href="https://github.com/samarthprabhu2007-art/Cookmate-Ai">
+            <span class="icon" aria-hidden="true">✳</span>
+            <h3>CookMate AI <span aria-hidden="true">↗</span></h3>
+            <p>An AI cooking assistant for managing ingredients and planning meals.</p>
+            <small>JavaScript · Hackathon</small>
+          </a>
+          <a class="panel project" data-category="hardware" href="https://github.com/samarthprabhu2007-art/Idea-lab">
+            <span class="icon" aria-hidden="true">◉</span>
+            <h3>Idea Lab <span aria-hidden="true">↗</span></h3>
+            <p>ESP32 monitoring prototype with live sensor readings, alerts, and a web dashboard.</p>
+            <small>ESP32 · HTML</small>
+          </a>
+        </div>
+      </section>
+      <footer>Samarth Prabhu <span> / </span> RVCE ’29</footer>
+    </main>
+  </div>
+</body>
+</html>
