@@ -44,12 +44,8 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 ## DSA Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/Samarthprabhu/"><img src="./assets/dsa-leetcode.svg" width="49%" alt="LeetCode. 675 problems solved. 1,743 contest rating."></a>
-  <a href="https://codeforces.com/profile/samarth270320076"><img src="./assets/dsa-codeforces.svg" width="49%" alt="Codeforces. 116 problems solved. 1,137 contest rating."></a>
-</p>
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/samarthpr59yb?tab=activity"><img src="./assets/dsa-geeksforgeeks.svg" width="49%" alt="GeeksforGeeks. 206 problems solved."></a>
-  <a href="https://www.hackerrank.com/profile/samarthprabhu201"><img src="./assets/dsa-hackerrank.svg" width="49%" alt="HackerRank. 13 Python problems and 1 C++ problem."></a>
+  <a href="https://leetcode.com/u/Samarthprabhu/"><img src="./assets/dsa-leetcode.svg" width="48%" alt="LeetCode. 675 problems solved. 1,743 contest rating."></a> &nbsp; <a href="https://codeforces.com/profile/samarth270320076"><img src="./assets/dsa-codeforces.svg" width="48%" alt="Codeforces. 116 problems solved. 1,137 contest rating."></a><br>
+  <a href="https://www.geeksforgeeks.org/profile/samarthpr59yb?tab=activity"><img src="./assets/dsa-geeksforgeeks.svg" width="48%" alt="GeeksforGeeks. 206 problems solved."></a> &nbsp; <a href="https://www.hackerrank.com/profile/samarthprabhu201"><img src="./assets/dsa-hackerrank.svg" width="48%" alt="HackerRank. 13 Python problems and 1 C++ problem."></a>
 </p>
 
 <sub>Snapshot · 9 Nov 2026</sub> · [View my C++ solutions ↗](https://github.com/samarthprabhu2007-art/DSA)

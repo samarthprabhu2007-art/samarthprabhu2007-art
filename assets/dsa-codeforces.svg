@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="110" viewBox="0 0 360 110">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
   <rect width="360" height="110" rx="12" fill="#161b22"/>
   <g font-family="system-ui, sans-serif">
-    <path transform="translate(16 15) scale(.67)" fill="#79BAFF" d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z"/>
-    <text x="41" y="29" fill="#e6edf3" font-size="18" font-weight="700">Codeforces</text>
-    <text x="16" y="67" fill="#f0f6fc" font-size="33" font-weight="750">116</text>
-    <text x="17" y="92" fill="#c3ccd7" font-size="16">Problems solved</text>
-    <text x="343" y="92" text-anchor="end" fill="#79BAFF" font-size="16" font-weight="700">1,137 rating</text>
+    <path transform="translate(22 15) scale(.67)" fill="#79BAFF" d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z"/>
+    <text x="47" y="29" fill="#e6edf3" font-size="18" font-weight="700">Codeforces</text>
+    <text x="22" y="67" fill="#f0f6fc" font-size="33" font-weight="750">116</text>
+    <text x="23" y="92" fill="#c3ccd7" font-size="16">Problems solved</text>
+    <text x="336" y="92" text-anchor="end" fill="#79BAFF" font-size="16" font-weight="700">1,137 rating</text>
   </g>
 </svg>
