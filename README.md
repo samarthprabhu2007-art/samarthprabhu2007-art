@@ -46,24 +46,24 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://leetcode.com/u/Samarthprabhu/">LeetCode ↗</a></strong><br>
-      <strong>675 problems solved</strong><br>
+      <a href="https://leetcode.com/u/Samarthprabhu/"><img src="https://img.shields.io/badge/LeetCode-8C5000?style=flat-square&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode profile"></a>
+      <h3>675 problems solved</h3>
       <sub>330 Easy · 328 Medium · 17 Hard</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://codeforces.com/profile/samarth270320076">Codeforces ↗</a></strong><br>
-      <strong>116 problems solved</strong><br>
+      <a href="https://codeforces.com/profile/samarth270320076"><img src="https://img.shields.io/badge/Codeforces-245687?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces profile"></a>
+      <h3>116 problems solved</h3>
       <sub>1137 rating</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://www.geeksforgeeks.org/profile/samarthpr59yb?tab=activity">GeeksforGeeks ↗</a></strong><br>
-      <strong>206 problems solved</strong>
+      <a href="https://www.geeksforgeeks.org/profile/samarthpr59yb?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-216A3C?style=flat-square&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks profile"></a>
+      <h3>206 problems solved</h3>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://www.hackerrank.com/profile/samarthprabhu201">HackerRank ↗</a></strong><br>
-      <strong>13 Python + 1 C++</strong><br>
+      <a href="https://www.hackerrank.com/profile/samarthprabhu201"><img src="https://img.shields.io/badge/HackerRank-175A40?style=flat-square&amp;logo=hackerrank&amp;logoColor=white" alt="HackerRank profile"></a>
+      <h3>13 Python + 1 C++</h3>
       <sub>Problems solved by track</sub>
     </td>
   </tr>
