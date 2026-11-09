@@ -20,14 +20,11 @@ I build web apps and explore applied ML, and I try to improve a little every day
 
 ## Tech stack
 
-**Languages**
-`C++` · `Python` · `JavaScript` · `HTML` · `CSS`
-
-**Web & data**
-`Node.js` · `MongoDB` · `XGBoost`
-
-**Hardware**
-`ESP32`
+- **Languages** · `C++` · `C` · `Python` · `JavaScript` · `HTML` · `CSS`
+- **Web development** · `React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB` · `Vercel`
+- **Data & machine learning** · `NumPy` · `pandas` · `scikit-learn` · `XGBoost`
+- **AI & computer vision** · `Gemini API` · `Groq API` · `Tesseract.js` · `OpenCV`
+- **Desktop, hardware & tools** · `GTK4` · `ESP32` · `Arduino` · `Git`
 
 ## Selected projects
 
