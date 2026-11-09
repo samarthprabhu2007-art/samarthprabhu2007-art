@@ -10,11 +10,9 @@
 
 ## About me
 
-Hey, I'm **Samarth**, a computer science student at **RVCE, class of ’29**.
+Hey, I’m **Samarth**, a CSE student at **RVCE, class of ’29**. I love solving problems with **C++ and DSA**, especially when there’s more than one way to approach a problem.
 
-I build web apps, explore applied machine learning, and practise problem solving in C++. My projects span cooking assistants, subscription trackers, and sensor-based monitoring.
-
-🏅 **A highlight** — Placed **2nd** in the *Gotta Train ’Em All* Kaggle competition with an XGBoost solution for Pokémon class and weight prediction.
+I’m learning **web development and AI/ML** by building projects and trying new tools along the way. Right now, I’m focused on getting better at showing up consistently, even if it’s just one problem or a small improvement to a project.
 
 ## Selected projects
 
