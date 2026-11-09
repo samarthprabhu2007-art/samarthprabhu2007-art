@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="116" viewBox="0 0 680 116">
+  <rect width="680" height="116" rx="12" fill="#161b22"/>
+  <g font-family="system-ui, sans-serif">
+    <path transform="translate(23 18) scale(.86)" fill="#79BAFF" d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z"/>
+    <text x="53" y="35" fill="#79BAFF" font-size="20" font-weight="700">Codeforces</text>
+    <text x="22" y="94" fill="#f0f6fc" font-size="43" font-weight="750">116</text>
+    <text x="114" y="91" fill="#c3ccd7" font-size="19">Problems solved</text>
+    <text x="655" y="76" text-anchor="end" fill="#79BAFF" font-size="22" font-weight="700">1,137 contest rating</text>
+  </g>
+</svg>
