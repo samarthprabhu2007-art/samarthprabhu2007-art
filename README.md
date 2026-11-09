@@ -7,7 +7,7 @@
   <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech stack" width="150" height="42"></a>
   <a href="#dsa-stats"><img src="./assets/nav-dsa-stats.svg" alt="DSA Stats" width="150" height="42"></a>
   <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
-  <a href="#achievements--certificates"><img src="./assets/nav-achievements.svg" alt="Achievements &amp; Certificates" width="150" height="42"></a>
+  <a href="#achievements--certifications"><img src="./assets/nav-achievements.svg" alt="Achievements &amp; Certifications" width="150" height="42"></a>
 </p>
 
 ## About me
@@ -64,25 +64,24 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 
 <p align="right"><a href="https://github.com/samarthprabhu2007-art?tab=repositories">Explore all repositories ↗</a></p>
 
-## Achievements & Certificates
+## Achievements & Certifications
 
 ### Featured achievements
 
-- 🥇 **1st Place · SheSafe Hackathon** — Our team built a portable hidden-camera detector for the RVCE WiC Insider Circle hackathon. [Project](https://github.com/samarthprabhu2007-art/SHE_SAFE) · [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/she_safe_1st_place.jpg)
+- 🥇 **1st Place · SheSafe Hackathon** — Built a portable hidden-camera detector for the RVCE WiC Insider Circle event. [Project](https://github.com/samarthprabhu2007-art/SHE_SAFE) · [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/she_safe_1st_place.jpg)
 - **National Finalist · VISION 2047 Hackathon** — Karnataka Edition, FlairX Networks and AICTE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/vision_2047_hackthon_National_hackathon_final.jpg)
-- 🥈 **2nd Place · Gotta Train ’Em All** — Our team used XGBoost to predict Pokémon class and weight in Coding Club RVCE’s Kaggle competition. [Solution](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) · [Participation certificate](./assets/certificates/gotta-train-em-all.png)
+- 🥈 **2nd Place · Gotta Train ’Em All** — Predicted Pokémon class and weight with XGBoost. [Solution](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) · [Participation certificate](./assets/certificates/gotta-train-em-all.png)
 
 ### Competitive programming
 
-- **4th Place · RV Code League** — Inaugural competitive programming contest at RVCE. [Results](https://www.linkedin.com/posts/sagarbm_rvce-rvcodeleague-competitiveprogramming-activity-7470488412299542528-j0hG)
+- **4th Place · RV Code League** — Inaugural RVCE competitive programming contest. [Results](https://www.linkedin.com/posts/sagarbm_rvce-rvcodeleague-competitiveprogramming-activity-7470488412299542528-j0hG)
 - **6th Rank · CodePulse** — Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_pulse_6th_rank.jpg)
-- **Top 16 · CodeQuest 2026** — Ranked 4th out of 150 in the HackerRank round. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_quest_top_16.jpg)
+- **Top 16 · CodeQuest 2026** — 4th among 150 in the HackerRank round. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_quest_top_16.jpg)
 
 ### Course & skills certificates
 
 - **MERN Stack Web Development Boot Camp** · Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Mern_stack_web_development_cc.jpg)
 - **5-Day AI Agents Intensive Course** · Google and Kaggle. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Kaggle_google_5_day_ai_agents.png)
-- **Problem Solving (Basic)** · HackerRank. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Hacker%20rank%20%29%20problem%20solving%20basic.jpg)
 
 ---
 
