@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Samarth Prabhu — CSE at RVCE, class of 2029. AI/ML, full-stack development, and competitive programming.">
+  <img src="./assets/sorting-hero.svg" width="100%" alt="Samarth Prabhu — CSE at RVCE, class of 2029. C++, DSA, web development, and machine learning. Animated bubble sort visualization.">
 </p>
 
 <p align="center">
