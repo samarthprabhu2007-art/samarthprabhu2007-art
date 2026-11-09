@@ -1,26 +1,87 @@
-![Samarth Prabhu — GitHub profile](./assets/profile-banner.svg)
+<p align="center">
+  <img src="./assets/hero.gif" width="100%" alt="Samarth Prabhu — CSE at RVCE, class of 2029. AI/ML, full-stack development, and competitive programming.">
+</p>
 
-### CSE @ RVCE ’29 · Competitive programming · AI/ML · Full-stack development
+<p align="center">
+  <a href="#about-me">About me</a> &nbsp; · &nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp; · &nbsp;
+  <a href="#tech-stack">Tech stack</a>
+</p>
 
-I’m Samarth. I build web apps, train machine learning models, and experiment with hardware.
+## About me
 
-**[Open my Dev Hub ↗](https://samarthprabhu2007-art.github.io/samarthprabhu2007-art/)** · GitHub activity, tech stack, and project explorer
+Hey, I'm **Samarth**, a computer science student at **RVCE, class of ’29**.
 
-## Featured projects
+I build web apps, explore applied machine learning, and practise problem solving in C++. My projects span cooking assistants, subscription trackers, and sensor-based monitoring.
 
-**01 · Machine learning**  
-[Gotta Train ’Em All](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) — Second-place Kaggle solution using XGBoost to predict Pokémon class and weight.
+🏅 **A highlight** — Placed **2nd** in the *Gotta Train ’Em All* Kaggle competition with an XGBoost solution for Pokémon class and weight prediction.
 
-**02 · Embedded systems**
+## Selected projects
 
-[Idea Lab](https://github.com/samarthprabhu2007-art/Idea-lab) — An ESP32-based soldier safety and monitoring project with live sensor readings, alerts, and a web dashboard.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>AI + WEB</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/Cookmate-Ai">CookMate AI ↗</a></h3>
+      <p>An AI cooking assistant for managing ingredients and planning healthy meals.</p>
+      <sub><b>JavaScript · FlairX hackathon</b></sub>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <sub>PROBLEM SOLVING</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/DSA">DSA ↗</a></h3>
+      <p>My collection of data structures and algorithms solutions.</p>
+      <sub><b>C++ · Algorithms</b></sub>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>MACHINE LEARNING</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All">Gotta Train ’Em All ↗</a></h3>
+      <p>Second-place Kaggle solution predicting Pokémon class and weight.</p>
+      <sub><b>Python · XGBoost · 2nd place</b></sub>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <sub>FULL-STACK</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/BILL_GUARD">Bill Guard ↗</a></h3>
+      <p>Track subscriptions, monthly spending, and upcoming bills.</p>
+      <sub><b>JavaScript · Node.js · MongoDB</b></sub>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>EMBEDDED SYSTEMS</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/Idea-lab">Idea Lab ↗</a></h3>
+      <p>ESP32 soldier monitoring prototype with live sensor data and alerts.</p>
+      <sub><b>ESP32 · Sensors · Web dashboard</b></sub>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <sub>HACKATHON BUILD</sub>
+      <h3><a href="https://github.com/samarthprabhu2007-art/SAMSUNG-HACKATHON-">Study & Earn ↗</a></h3>
+      <p>Study sessions become earned breaks through quizzes and focus monitoring.</p>
+      <sub><b>JavaScript · AI · EP rewards</b></sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
-**03 · Full-stack development**  
-[Bill Guard](https://github.com/samarthprabhu2007-art/BILL_GUARD) — A subscription tracker for monitoring monthly spending and upcoming bills. Built with vanilla JavaScript, Node.js, and MongoDB.
+<p align="right"><a href="https://github.com/samarthprabhu2007-art?tab=repositories">Explore all repositories ↗</a></p>
 
-**04 · Competitive programming**  
-[DSA](https://github.com/samarthprabhu2007-art/DSA) — My data structures and algorithms solutions in C++.
+## Tech stack
+
+**Languages**
+`C++` · `Python` · `JavaScript` · `HTML` · `CSS`
+
+**Web & data**
+`Node.js` · `MongoDB` · `XGBoost`
+
+**Hardware**
+`ESP32`
 
 ---
 
-[Browse all repositories ↗](https://github.com/samarthprabhu2007-art?tab=repositories)
+<p align="center"><sub>Samarth Prabhu · RVCE ’29 · Built one project at a time.</sub></p>
