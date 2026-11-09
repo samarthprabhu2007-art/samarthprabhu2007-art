@@ -7,6 +7,7 @@
   <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech stack" width="150" height="42"></a>
   <a href="#dsa-stats"><img src="./assets/nav-dsa-stats.svg" alt="DSA Stats" width="150" height="42"></a>
   <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
+  <a href="#achievements--certificates"><img src="./assets/nav-achievements.svg" alt="Achievements &amp; Certificates" width="150" height="42"></a>
 </p>
 
 ## About me
