@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="#about-me"><img src="./assets/nav-about-me.svg" alt="About me" width="150" height="42"></a>
-  <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
   <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech stack" width="150" height="42"></a>
+  <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
 </p>
 
 ## About me
@@ -17,6 +17,17 @@ I build web apps and explore applied ML, and I try to improve a little every day
 - 🔭 Currently building: [sheSafe](https://github.com/samarthprabhu2007-art/SHE_SAFE)
 - 🌱 Currently learning: Graphs & DP
 - 🤝 Serving as: Junior Core Team member, [Coding Club @ RVCE](https://github.com/codingclubrvce)
+
+## Tech stack
+
+**Languages**
+`C++` · `Python` · `JavaScript` · `HTML` · `CSS`
+
+**Web & data**
+`Node.js` · `MongoDB` · `XGBoost`
+
+**Hardware**
+`ESP32`
 
 ## Selected projects
 
@@ -72,17 +83,6 @@ I build web apps and explore applied ML, and I try to improve a little every day
 </table>
 
 <p align="right"><a href="https://github.com/samarthprabhu2007-art?tab=repositories">Explore all repositories ↗</a></p>
-
-## Tech stack
-
-**Languages**
-`C++` · `Python` · `JavaScript` · `HTML` · `CSS`
-
-**Web & data**
-`Node.js` · `MongoDB` · `XGBoost`
-
-**Hardware**
-`ESP32`
 
 ---
 
