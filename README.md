@@ -78,7 +78,7 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 - **6th Rank · CodePulse** — Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_pulse_6th_rank.jpg)
 - **Top 16 · CodeQuest 2026** — 4th among 150 in the HackerRank round. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_quest_top_16.jpg)
 
-### Course & skills certificates
+### Courses & Certifications
 
 - **MERN Stack Web Development Boot Camp** · Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Mern_stack_web_development_cc.jpg)
 - **5-Day AI Agents Intensive Course** · Google and Kaggle. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Kaggle_google_5_day_ai_agents.png)
