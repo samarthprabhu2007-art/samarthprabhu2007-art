@@ -20,24 +20,19 @@ I build web apps and explore applied ML, and I try to improve a little every day
 
 ## Tech stack
 
-**Languages**
-
+**Languages**<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-394B78?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![HTML](https://img.shields.io/badge/HTML-B93816?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
-**Web development**
+**Web development**<br>
+![React](https://img.shields.io/badge/React-183C4C?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-5147A6?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-12566A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Node.js](https://img.shields.io/badge/Node.js-356627?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-262626?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-175E39?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white)
 
-![React](https://img.shields.io/badge/React-183C4C?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-5147A6?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-12566A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Node.js](https://img.shields.io/badge/Node.js-356627?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-262626?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-175E39?style=flat-square&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white)
-
-**Data & machine learning**
-
+**Data & machine learning**<br>
 ![NumPy](https://img.shields.io/badge/NumPy-234A74?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-22164D?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A84B05?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1D6B54?style=flat-square)
 
-**AI & computer vision**
-
+**AI & computer vision**<br>
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-3556A9?style=flat-square&logo=googlegemini&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq%20API-AD351A?style=flat-square) ![Tesseract.js](https://img.shields.io/badge/Tesseract.js-325579?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-3B489F?style=flat-square&logo=opencv&logoColor=white)
 
-**Desktop, hardware & tools**
-
+**Systems & Developer Tools**<br>
 ![GTK4](https://img.shields.io/badge/GTK4-74509A?style=flat-square&logo=gtk&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-AA2435?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-006E74?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-B73520?style=flat-square&logo=git&logoColor=white)
 
 ## Selected projects
