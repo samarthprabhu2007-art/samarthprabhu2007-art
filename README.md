@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About me</a> &nbsp; · &nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp; · &nbsp;
-  <a href="#tech-stack">Tech stack</a>
+  <a href="#about-me"><img src="./assets/nav-about-me.svg" alt="About me" width="150" height="42"></a>
+  <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
+  <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech stack" width="150" height="42"></a>
 </p>
 
 ## About me
