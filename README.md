@@ -63,6 +63,26 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 
 <p align="right"><a href="https://github.com/samarthprabhu2007-art?tab=repositories">Explore all repositories ↗</a></p>
 
+## Achievements & Certificates
+
+### Featured achievements
+
+- 🥇 **1st Place · SheSafe Hackathon** — Our team built a portable hidden-camera detector for the RVCE WiC Insider Circle hackathon. [Project](https://github.com/samarthprabhu2007-art/SHE_SAFE) · [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/she_safe_1st_place.jpg)
+- **National Finalist · VISION 2047 Hackathon** — Karnataka Edition, FlairX Networks and AICTE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/vision_2047_hackthon_National_hackathon_final.jpg)
+- 🥈 **2nd Place · Gotta Train ’Em All** — Our team used XGBoost to predict Pokémon class and weight in Coding Club RVCE’s Kaggle competition. [Solution](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) · [Participation certificate](./assets/certificates/gotta-train-em-all.png)
+
+### Competitive programming
+
+- **4th Place · RV Code League** — Inaugural competitive programming contest at RVCE. [Results](https://www.linkedin.com/posts/sagarbm_rvce-rvcodeleague-competitiveprogramming-activity-7470488412299542528-j0hG)
+- **6th Rank · CodePulse** — Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_pulse_6th_rank.jpg)
+- **Top 16 · CodeQuest 2026** — Ranked 4th out of 150 in the HackerRank round. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Code_quest_top_16.jpg)
+
+### Course & skills certificates
+
+- **MERN Stack Web Development Boot Camp** · Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Mern_stack_web_development_cc.jpg)
+- **5-Day AI Agents Intensive Course** · Google and Kaggle. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Kaggle_google_5_day_ai_agents.png)
+- **Problem Solving (Basic)** · HackerRank. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Hacker%20rank%20%29%20problem%20solving%20basic.jpg)
+
 ---
 
 <p align="center"><sub>Samarth Prabhu · RVCE ’29 · Built one project at a time.</sub></p>
