@@ -14,7 +14,7 @@ Hey, I'm **Samarth**, a CSE student at **RVCE, class of ’29**. I love solving 
 
 I build web apps and explore applied ML, and I try to improve a little every day, even if it's just one problem or a small fix to a project.
 
-- 🔭 Currently building: sheSafe
+- 🔭 Currently building: [sheSafe](https://github.com/samarthprabhu2007-art/SHE_SAFE)
 - 🌱 Currently learning: Graphs & DP
 - 🤝 Serving as: Junior Core Team member, Coding Club @ RVCE
 
