@@ -90,6 +90,4 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-lyart-mu-32.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-B3261E?style=flat-square&logo=gmail&logoColor=white)](mailto:samarthprabhu2007@gmail.com)
 
----
-
 <p align="center"><sub>Samarth Prabhu · RVCE ’29 · Built one project at a time.</sub></p>
