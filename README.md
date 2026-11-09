@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sorting-hero.svg" width="100%" alt="Samarth Prabhu — CSE at RVCE, class of 2029. C++, DSA, web development, and machine learning. Animated bubble sort visualization.">
+  <img src="./assets/sorting-hero.svg" width="100%" alt="Samarth Prabhu, second-year CSE student at RVCE and developer. C++, DSA, Python, MERN, and Git. Animated sorting visualization.">
 </p>
 
 <p align="center">
