@@ -66,11 +66,11 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 
 ## Achievements & Certifications
 
-### Featured achievements
+### Featured Achievements
 
-- 🥇 **1st Place · SheSafe Hackathon** — Built a portable hidden-camera detector for the RVCE WiC Insider Circle event. [Project](https://github.com/samarthprabhu2007-art/SHE_SAFE) · [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/she_safe_1st_place.jpg)
-- **National Finalist · VISION 2047 Hackathon** — Karnataka Edition, FlairX Networks and AICTE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/vision_2047_hackthon_National_hackathon_final.jpg)
-- 🥈 **2nd Place · Gotta Train ’Em All** — Predicted Pokémon class and weight with XGBoost. [Solution](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) · [Participation certificate](./assets/certificates/gotta-train-em-all.png)
+- 🥇 **1st Place · SheSafe Hackathon** — Portable hidden-camera detector. [Project](https://github.com/samarthprabhu2007-art/SHE_SAFE) · [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/she_safe_1st_place.jpg)
+- **National Finalist · VISION 2047 Hackathon** — Karnataka Edition, FlairX Networks & AICTE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/vision_2047_hackthon_National_hackathon_final.jpg)
+- 🥈 **2nd Place · Gotta Train ’Em All** — XGBoost Pokémon prediction challenge. [Solution](https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All) · [Participation certificate](./assets/certificates/gotta-train-em-all.png)
 
 ### Competitive programming
 
