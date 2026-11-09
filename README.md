@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#about-me"><img src="./assets/nav-about-me.svg" alt="About me" width="150" height="42"></a>
   <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech stack" width="150" height="42"></a>
+  <a href="#dsa-stats"><img src="./assets/nav-dsa-stats.svg" alt="DSA Stats" width="150" height="42"></a>
   <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
 </p>
 
@@ -39,6 +40,36 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 **Systems & Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-B73520?style=flat-square&logo=git&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4-74509A?style=flat-square&logo=gtk&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-AA2435?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-006E74?style=flat-square&logo=arduino&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1466A3?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-205AB2?style=flat-square&logo=githubactions&logoColor=white)
+
+## DSA Stats
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://leetcode.com/u/Samarthprabhu/">LeetCode ↗</a></strong><br>
+      <strong>675 problems solved</strong><br>
+      <sub>330 Easy · 328 Medium · 17 Hard</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://codeforces.com/profile/samarth270320076">Codeforces ↗</a></strong><br>
+      <strong>116 problems solved</strong><br>
+      <sub>1137 rating</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://www.geeksforgeeks.org/profile/samarthpr59yb?tab=activity">GeeksforGeeks ↗</a></strong><br>
+      <strong>206 problems solved</strong>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://www.hackerrank.com/profile/samarthprabhu201">HackerRank ↗</a></strong><br>
+      <strong>13 Python + 1 C++</strong><br>
+      <sub>Problems solved by track</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Snapshot · 9 Nov 2026</sub> · [View my C++ solutions ↗](https://github.com/samarthprabhu2007-art/DSA)
 
 ## Selected projects
 
