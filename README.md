@@ -8,6 +8,7 @@
   <a href="#dsa-stats"><img src="./assets/nav-dsa-stats.svg" alt="DSA Stats" width="150" height="42"></a>
   <a href="#selected-projects"><img src="./assets/nav-selected-projects.svg" alt="Projects" width="150" height="42"></a>
   <a href="#achievements--certifications"><img src="./assets/nav-achievements.svg" alt="Achievements &amp; Certifications" width="150" height="42"></a>
+  <a href="#connect"><img src="./assets/nav-connect.svg" alt="Connect" width="150" height="42"></a>
 </p>
 
 ## About me
@@ -82,6 +83,11 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 
 - **MERN Stack Web Development Boot Camp** · Coding Club RVCE. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Mern_stack_web_development_cc.jpg)
 - **5-Day AI Agents Intensive Course** · Google and Kaggle. [Certificate](https://myportfolio-lyart-mu-32.vercel.app/photos/Kaggle_google_5_day_ai_agents.png)
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-lyart-mu-32.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-B3261E?style=flat-square&logo=gmail&logoColor=white)](mailto:samarthprabhu2007@gmail.com)
 
 ---
 
