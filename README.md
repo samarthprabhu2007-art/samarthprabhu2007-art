@@ -10,9 +10,9 @@
 
 ## About me
 
-Hey, I’m **Samarth**, a CSE student at **RVCE, class of ’29**. I love solving problems with **C++ and DSA**, especially when there’s more than one way to approach a problem.
+Hey, I'm **Samarth**, a CSE student at **RVCE, class of ’29**. I love solving problems with **C++ and DSA**, especially when there's more than one way to approach a problem.
 
-I’m learning **web development and AI/ML** by building projects and trying new tools along the way. Right now, I’m focused on getting better at showing up consistently, even if it’s just one problem or a small improvement to a project.
+I build web apps and explore applied ML, and I try to improve a little every day, even if it's just one problem or a small fix to a project.
 
 ## Selected projects
 
