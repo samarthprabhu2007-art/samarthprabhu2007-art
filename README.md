@@ -52,56 +52,15 @@ I build web apps, explore applied ML, and enjoy turning ideas into working proje
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>AI + WEB</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/Cookmate-Ai">CookMate AI ↗</a></h3>
-      <p>An AI cooking assistant for managing ingredients and planning healthy meals.</p>
-      <sub><b>JavaScript · FlairX hackathon</b></sub>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <sub>PROBLEM SOLVING</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/DSA">DSA ↗</a></h3>
-      <p>My collection of data structures and algorithms solutions.</p>
-      <sub><b>C++ · Algorithms</b></sub>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>MACHINE LEARNING</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All">Gotta Train ’Em All ↗</a></h3>
-      <p>Second-place Kaggle solution predicting Pokémon class and weight.</p>
-      <sub><b>Python · XGBoost · 2nd place</b></sub>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <sub>FULL-STACK</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/BILL_GUARD">Bill Guard ↗</a></h3>
-      <p>Track subscriptions, monthly spending, and upcoming bills.</p>
-      <sub><b>JavaScript · Node.js · MongoDB</b></sub>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>EMBEDDED SYSTEMS</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/Idea-lab">Idea Lab ↗</a></h3>
-      <p>ESP32 soldier monitoring prototype with live sensor data and alerts.</p>
-      <sub><b>ESP32 · Sensors · Web dashboard</b></sub>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <sub>HACKATHON BUILD</sub>
-      <h3><a href="https://github.com/samarthprabhu2007-art/SAMSUNG-HACKATHON-">Study & Earn ↗</a></h3>
-      <p>Study sessions become earned breaks through quizzes and focus monitoring.</p>
-      <sub><b>JavaScript · AI · EP rewards</b></sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/samarthprabhu2007-art/Idea-lab"><img src="./assets/project-idea-lab.svg" width="48%" alt="Idea Lab. ESP32-based soldier safety system with real-time sensor monitoring and alerts. ESP32 · Sensors · Web dashboard. View on GitHub."></a> &nbsp;
+  <a href="https://github.com/samarthprabhu2007-art/Gotta-Train-Em-All"><img src="./assets/project-kaggle.svg" width="48%" alt="Gotta Train ’Em All. Second-place Kaggle solution using XGBoost to predict Pokémon class and weight. Python · XGBoost. View on GitHub."></a><br>
+  <a href="https://github.com/samarthprabhu2007-art/BILL_GUARD"><img src="./assets/project-bill-guard.svg" width="48%" alt="Bill Guard. Full-stack subscription tracker for recurring expenses and upcoming payments. JavaScript · Node.js · MongoDB. View on GitHub."></a> &nbsp;
+  <a href="https://github.com/samarthprabhu2007-art/SAMSUNG-HACKATHON-"><img src="./assets/project-study.svg" width="48%" alt="Study &amp; Earn. Gamified study platform combining focus tracking, quizzes, and rewards. JavaScript · Gemini API. View on GitHub."></a><br>
+  <sub><a href="https://bill-guard-pink.vercel.app">Bill Guard · Live Demo ↗</a> &nbsp; · &nbsp; <a href="https://samsung-hackathon-bice.vercel.app">Study &amp; Earn · Live Demo ↗</a></sub><br><br>
+  <a href="https://github.com/samarthprabhu2007-art/Cookmate-Ai"><img src="./assets/project-cookmate.svg" width="48%" alt="CookMate AI. AI-powered cooking assistant that suggests meals based on available ingredients. JavaScript · AI. View on GitHub."></a> &nbsp;
+  <a href="https://github.com/samarthprabhu2007-art/DSA"><img src="./assets/project-dsa.svg" width="48%" alt="DSA. A growing collection of C++ solutions for algorithms and data structures. C++ · Algorithms. View on GitHub."></a>
+</p>
 
 <p align="right"><a href="https://github.com/samarthprabhu2007-art?tab=repositories">Explore all repositories ↗</a></p>
 
